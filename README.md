@@ -41,3 +41,5 @@ Built with a user-centered UI/UX approach, VisitMax focuses on simplicity, respo
 * Designed database schema and managed data flow.
 * Performed UI testing, debugging, and performance optimization.
 * Collaborated with the development team throughout the SDLC.
+<img width="1366" height="768" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/4ad239ce-f4fe-4f17-a7a9-fea021fbf762" />
+this is an output
